@@ -1,4 +1,4 @@
-gitCreative<sup>tm</sup>
+gitCreative&trade;
 ===========
 
 this is a project that I am going working on to opensource creativity
