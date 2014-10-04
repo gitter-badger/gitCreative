@@ -4,3 +4,15 @@ Started GET "/" for 127.0.0.1 at 2014-09-02 20:42:53 -0700
 Processing by Rails::WelcomeController#index as HTML
   Rendered /Users/maxburger/.rvm/gems/ruby-2.1.0/gems/railties-4.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
 Completed 200 OK in 60ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-10-04 15:14:20 -0700
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/maxburger/.rvm/gems/ruby-2.1.0/gems/railties-4.1.4/lib/rails/templates/rails/welcome/index.html.erb (3.3ms)
+Completed 200 OK in 57ms (Views: 37.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2014-10-04 15:15:13 -0700
+Processing by Rails::InfoController#properties as */*
+  Rendered /Users/maxburger/.rvm/gems/ruby-2.1.0/gems/railties-4.1.4/lib/rails/templates/rails/info/properties.html.erb (0.9ms)
+Completed 200 OK in 127ms (Views: 25.4ms | ActiveRecord: 1.9ms)
