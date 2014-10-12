@@ -1,5 +1,6 @@
  gitCreative&trade;
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mburger89/gitCreative?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is gitCreative a project to help bring version control to digital creatives.
 While also creating a community for creatives to colaberate on. 
